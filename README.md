@@ -1,2 +1,2 @@
-# Movie-trailer 
-This project is about movies and their trailers
+Project:Movie-Trailer
+#Designed By ANUSHA BHAVANAM A simple movie trailer website project for Udacity's full-stack nanodegree program. 
