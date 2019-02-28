@@ -1,2 +1,2 @@
-# Movie-trailer
-About Movies and Trailers
+# Movie-trailer 
+This project is about movies and their trailers
